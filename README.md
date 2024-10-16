@@ -4,7 +4,7 @@
 **dilmi214/dilmi214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Main Image](RIFF��)
+![Main Image](https://raw.githubusercontent.com/dilmi214/dilmi214/refs/heads/main/MainImg.webp)
 
 - 🔭 I’m currently working on a mocroservice-based personal project.
 - 🌱 I’m currently learning Spring Boot.
