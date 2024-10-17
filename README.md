@@ -21,6 +21,7 @@
 <hr/>
 ## PROFILE STATS
   ![Profile Views] (https://komarev.com/ghpvc/?username=dilmi214&color=blueviolet&style=flat-square)
+  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-readme-stats.vercel.app/api?username=dilmi214&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt" alt="dilmi214" />
