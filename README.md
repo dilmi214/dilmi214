@@ -24,3 +24,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dilmi214&theme=dracula&no-frame=true" alt="dilmi214" />
   </a>
 </p>
+<hr />
+![Dilmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilmi214&theme=cobalt&show_icons=true)
