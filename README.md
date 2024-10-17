@@ -21,11 +21,7 @@
 <hr/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=dilmi214&theme=dracula&no-frame=true" alt="dilmi214" />
+<img src="https://github-readme-stats.vercel.app/api?username=dilmi214&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt" alt="dilmi214" />
   </a>
 </p>
 <hr />
-  ![Dilmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilmi214&theme=cobalt&show_icons=true)
-  ||||
-  | `cobalt` ![cobalt][cobalt] | 
-  ||||
