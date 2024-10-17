@@ -25,4 +25,4 @@
   </a>
 </p>
 <hr />
-![Dilmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilmi214&theme=cobalt&show_icons=true)
+  ![Dilmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilmi214&theme=cobalt&show_icons=true)
