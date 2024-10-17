@@ -24,11 +24,10 @@
 ## PROFILE STATS
   ![Profile Views](https://komarev.com/ghpvc/?username=dilmi214&color=blueviolet&style=flat-square)
 <div style="display: flex; justify-content: center;">
-  <img align="left" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dilmi214&count_private=true&theme=cobalt" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilmi214&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="dilmi214" />
 </div>
 
 <div style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilmi214&show_icons=true&locale=en&theme=radical&rank_icon=github&border_radius=10&theme=cobalt" alt="dilmi214" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilmi214&show_icons=true&locale=en&theme=cobalt&rank_icon=github&border_radius=10" alt="dilmi214" />
 </div>
 <hr />
