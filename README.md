@@ -17,7 +17,7 @@
 - 📖 I’m currently learning Spring Boot.
 - 💻 I’m looking to collaborate on backend development.
 - ✍🏼 I am the editor for the executive commitee of 2024/2025 at the Mozilla Campus Club of IIT.
-- 🎹 I have been an organist at the Transfiguration church since 2017.
+- 🎹 I have been an organist at the Transfiguration church pf Morukkuliya since 2017.
 
 <div align="center">
   
@@ -46,3 +46,13 @@
 </div>
   
 <hr />
+
+<div align="center">
+  
+## GET IN TOUCH
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashara-nethmin-084925213)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilmi214)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilmifernando214@gmail.com)
+
+</div>
