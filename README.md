@@ -12,6 +12,7 @@
   
 ## About me
 </div>
+
 - 🎓 I’m currently a third year undergraduate student at IIT.
 - 📖 I’m currently learning Spring Boot.
 - 💻 I’m looking to collaborate on backend development.
@@ -22,10 +23,12 @@
   
 ## Skills
 </div>
+
 - Programming Languages: Java, C#, JavaScript, Python
 - Web Development: HTML, CSS, Spring boot, Asp.net
 - Database Management: MySQL, PostgresSQL
 - Version Control: Git
+
 <div align="center">
   
 ## Tools and Technologies I've used
