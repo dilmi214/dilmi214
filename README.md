@@ -13,21 +13,21 @@
 ## About me
 
 
-🎓 I’m currently a third year undergraduate student at IIT.
-📖 I’m currently learning Spring Boot.
-💻 I’m looking to collaborate on backend development.
-✍🏼 I am the editor for the executive commitee of 2024/2025 at the Mozilla Campus Club of IIT.
-🎹 I have been an organist at the Transfiguration church since 2017.
+- 🎓 I’m currently a third year undergraduate student at IIT.
+- 📖 I’m currently learning Spring Boot.
+- 💻 I’m looking to collaborate on backend development.
+- ✍🏼 I am the editor for the executive commitee of 2024/2025 at the Mozilla Campus Club of IIT.
+- 🎹 I have been an organist at the Transfiguration church since 2017.
 </div>
 
 <div align="center">
   
 ## Skills
 
-Programming Languages: Java, C#, JavaScript, Python
-Web Development: HTML, CSS, Spring boot, Asp.net
-Database Management: MySQL, PostgresSQL
-Version Control: Git
+- Programming Languages: Java, C#, JavaScript, Python
+- Web Development: HTML, CSS, Spring boot, Asp.net
+- Database Management: MySQL, PostgresSQL
+- Version Control: Git
 
 </div>
 
