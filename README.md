@@ -17,7 +17,7 @@
 - 📖 I’m currently learning Spring Boot.
 - 💻 I’m looking to collaborate on backend development.
 - ✍🏼 I am the editor for the executive commitee of 2024/2025 at the Mozilla Campus Club of IIT.
-- 🎹 I have been an organist at the Transfiguration church pf Morukkuliya since 2017.
+- 🎹 I have been an organist at the Transfiguration church of Morukkuliya since 2017.
 
 <div align="center">
   
